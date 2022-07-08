@@ -16,10 +16,11 @@ From a total number of 1,369 plays, 839 were successful, this represents de 63%.
 This analysis show that from a total number of 4114 projects the percentage of success was 53.11%. We used the *Central Tendency Measurements*
 to find that the Median and most repeated goal (Mode) was $5,000. The 3rd Quartile or 75% of the total were $15,000 projects.
 
-*This line chart organized in ranges display the results* ![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+*This line chart organized in ranges display the results* ![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-
+From the Quartile Analysis we found that the Lower Bound retrieves a negative number, meaning that the 1st Auqrtile or 25% of the total are values close to 0.
+*The Outlier Analysis chart shows the suspicious data*
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
