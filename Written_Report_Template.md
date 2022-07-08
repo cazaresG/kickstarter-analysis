@@ -1,10 +1,15 @@
-# Kickstarting with Excel
+# Kickstarter Analysis Written Report
 
-## Overview of Project
+## Background
 
-### Purpose
+The client, Louise, wanted to analyze the collected data regarding the kikstarter campaigns related to financial goals.
+Data was organized and analyzed with stastical tools, focusing basically in theatrical plays.
 
 ## Analysis and Challenges
+We began working with a Pivot table, orgamnizing the data in a monthly basis along the year.
+From a total number of 1,369 plays, 839 were successful, this represents de 63%. 
+
+*This [line chart](https://pages.github.com/) show the tendencies*
 
 ### Analysis of Outcomes Based on Launch Date
 
