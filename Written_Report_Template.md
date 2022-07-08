@@ -20,7 +20,7 @@ to find that the Median and most repeated goal (Mode) was $5,000. The 3rd Quarti
 
 ### Challenges and Difficulties Encountered
 From the Quartile Analysis we found that the Lower Bound retrieves a negative number, meaning that the 1st Auqrtile or 25% of the total are values close to 0.
-*The Outlier Analysis chart shows the suspicious data* ![This is an image]
+*The Outlier Analysis chart shows the suspicious data* ![This is an image] (https://github.com/cazaresG/kickstarter-analysis/blob/main/Goals_Box_and_Whiskers.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
