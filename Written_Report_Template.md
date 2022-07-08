@@ -2,7 +2,7 @@
 
 ## Background
 
-The client, Louise, wanted to analyze the collected data regarding the kikstarter campaigns related to financial goals.
+The client, Louise, wanted to analyze the collected data regarding the kickstarter campaigns related to financial goals.
 Data was organized and analyzed with stastical tools, focusing basically in theatrical plays.
 
 ## Analysis and Challenges
@@ -19,14 +19,17 @@ to find that the Median and most repeated goal (Mode) was $5,000. The 3rd Quarti
 *This line chart organized in ranges display the results* ![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-From the Quartile Analysis we found that the Lower Bound retrieves a negative number, meaning that the 1st Auqrtile or 25% of the total are values close to 0.
-*The Outlier Analysis chart shows the suspicious data* ![This is an image] (https://github.com/cazaresG/kickstarter-analysis/blob/main/Goals_Box_and_Whiskers.png)
+From the Quartile Analysis we found that the Lower Bound retrieves a negative number, meaning that the 1st Quartile or 25% of the total are values close to 0.
+
+*The Outlier Analysis chart shows the suspicious data* 
+![This is an image](https://github.com/cazaresG/kickstarter-analysis/blob/main/Goals_Box_and_Whiskers.png)
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- We conclude that the Outcomes based on Launch Date had an acceptable percentage of success rate.
 
-- What can you conclude about the Outcomes based on Goals?
+- For the Outcomes based on Goals we can say that the normal distribution shows a median value sitting in the middle of the chart, being also the most repeated
+  value. We conclude that this amount of $5,000 represents a tendency, for our client it would mean a valuable tool for the planning of forthcoming events.
 
-- What are some limitations of this dataset?
+- The dataset has some Outliers described in the *Challenges and Difficulties Section*, we recommend removing them from the dataset.
 
-- What are some other possible tables and/or graphs that we could create?
+- Other analysis/charts that can also be done is the histogram chart, showing the respective ranges
