@@ -9,7 +9,7 @@ Data was organized and analyzed with stastical tools, focusing basically in thea
 We began working with a Pivot table, orgamnizing the data in a monthly basis along the year.
 From a total number of 1,369 plays, 839 were successful, this represents de 63%. 
 
-*This [line chart](https://pages.github.com/) show the tendencies*
+*This [line chart]([https://pages.github.com/](https://github.com/cazaresG/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)) show the tendencies*
 
 ### Analysis of Outcomes Based on Launch Date
 
